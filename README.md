@@ -140,4 +140,12 @@ function showSection(section) {
 
 </body>
 </html>
+admin-empresas/
+│
+├── index.html        → Página principal con el panel general
+├── clientes.html     → Sección de clientes
+├── empleados.html    → Sección de empleados
+├── finanzas.html     → Sección de finanzas
+├── style.css         → Estilo oscuro moderno
+└── script.js         → Animaciones y lógica de navegación
 
